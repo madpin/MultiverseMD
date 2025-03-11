@@ -1,0 +1,2 @@
+class MultiverseMDException(Exception):
+    pass
